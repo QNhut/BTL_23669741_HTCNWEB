@@ -336,7 +336,10 @@ header .search-form input {
   padding: 1rem 0;
 }
 .box2 .image img {
-
+  margin-left: 20%;
+  margin-right: 20%;
+  width: 100%;
+  height: 30%;
   object-fit: cover;
   background-size: cover;
 }
@@ -426,8 +429,6 @@ header .search-form input {
   color: yellow;
 }
 .quote {
-  width: 35rem;
-  height: 20rem;
   object-fit: cover;
   background-size: cover;
   padding: 1rem;
@@ -612,6 +613,7 @@ header .search-form input {
     width: 30rem;
     height: calc(100vh - 9.5rem);
     transition: right 0.001s ease;
+    display: none;
   }
 
   #navbarNav.active {
