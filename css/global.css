@@ -228,6 +228,16 @@ header .search-form input {
   align-items: center;
   background-color: #333233;
 }
+.b1{
+  background-color: #151515;
+}
+.k1{
+  border: 1px solid #fff !important;
+  color: #fff !important;
+}
+.k1 h3{
+  color: #fff !important;
+}
 .about .row {
   display: flex;
   align-items: center;
