@@ -198,7 +198,7 @@ header .search-form input {
 }
 
 .home {
-  min-height: 1044px;
+  height: 1044px;
   display: flex;
   align-items: center;
   background: URL(/image/bg.jpg) no-repeat;
@@ -332,6 +332,7 @@ header .search-form input {
   color: #000;
 }
 .box2 .image {
+  width: 70%;
   padding: 1rem 0;
 }
 .box2 .image img {
@@ -375,6 +376,7 @@ header .search-form input {
   margin-top: 10px !important;
 }
 .box3 .quote {
+  width: 80%;
   overflow: hidden;
 }
 .box3 p {
